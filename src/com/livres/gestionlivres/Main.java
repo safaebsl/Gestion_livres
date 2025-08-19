@@ -92,6 +92,7 @@ public class Main {
             }
         } while (choix != 0);
 
-        scanner.close();
+
     }
 }
+
